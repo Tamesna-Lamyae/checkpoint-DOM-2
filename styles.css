@@ -1,0 +1,27 @@
+/* Centrer le contenu */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style de la boîte colorée */
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: #f0f0f0; /* Couleur de fond par défaut */
+    margin: 20px auto; /* Centrer horizontalement */
+}
+
+/* Style du bouton */
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#change-color-btn:hover {
+    background-color: #45a049;
+}
